@@ -6,7 +6,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Doguhan Yeke"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -78,10 +78,6 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
   threshold = 80.0
   includeNewer = true
   toLower = true
-
-  [[related.indices]]
-    name = "title"
-    weight = 60.0
 
   [[related.indices]]
     name = "summary"
