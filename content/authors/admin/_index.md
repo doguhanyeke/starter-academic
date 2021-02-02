@@ -68,4 +68,4 @@ I will be starting as a Ph.D. student at Purdue University in August 2021.
 
 My research interests include static and dynamic malware analysis and securing mobile and web applications. In my spare time, I would like to attend CTFs and competitive programming contests.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Cv_DoguhanYeke.pdf" "newtab" >}}resume{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Cv_DoguhanYeke.pdf" "newtab" >}}resume{{< /staticref >}}.
