@@ -18,16 +18,13 @@ bio: My research interests include web and mobile application security
 
 # Interests to show in About widget
 interests:
-- Cyber Security
+- Malware Analysis
 - Web Application Security
 - Mobile Application Security
 
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. in Security
-    institution: Purdue University
-    year: Ongoing
   - course: M.Sc in Computer Engineering
     institution: Middle East Technical University
     year: 2020
@@ -45,7 +42,7 @@ social:
   link: 'mailto: doguyeke@gmail.com'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: google scholar citations
+  link: https://scholar.google.com/citations?user=jmSheN8AAAAJ&hl=tr&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/twoinfiniteloops
@@ -67,8 +64,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I will be starting as a Ph.D. student at Purdue University in August 2021. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests include static and dynamic malware analysis and securing mobile and web applications. In my spare time, I would like to attend CTFs and competitive programming contests.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Cv_DoguhanYeke.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Cv_DoguhanYeke.pdf" "newtab" >}}resume{{< /staticref >}}.
