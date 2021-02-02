@@ -80,10 +80,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   toLower = true
 
   [[related.indices]]
-    name = "title"
-    weight = 60.0
-
-  [[related.indices]]
     name = "summary"
     weight = 50.0
 
