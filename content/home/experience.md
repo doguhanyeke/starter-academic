@@ -24,12 +24,12 @@ date_format: Jan 2006
 experience:
   - title: Teaching and Research Assistant
     company: METU
-    company_url: ''
+    company_url: 'https://www.metu.edu.tr'
     location: Turkey
     date_start: '2018-06-26'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        TA for:
         
         * CEng331: Computer Organization
         * CEng302: Database Management Systems
@@ -50,7 +50,7 @@ experience:
     location: Turkey
     date_start: '2016-06-08'
     date_end: '2016-09-10'
-    description: Worked as a golang developer
+    description: Worked as a Golang developer, used client-server architecture, wrote unit tests
 
   - title: Researcher
     company: University of Mons
@@ -58,5 +58,5 @@ experience:
     location: Belgium
     date_start: '2015-07-08'
     date_end: '2015-08-10'
-    description: Worked as a python developer
+    description: Worked as a Python developer in a research team, developed a game which guesses the correct video according to the sketch of the user.
 ---
