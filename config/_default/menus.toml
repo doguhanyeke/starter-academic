@@ -19,6 +19,6 @@
   weight = 30
 
 [[main]]
-   name = "CV"
+   name = "Resume"
    url = "media/Cv_DoguhanYeke.pdf"
    weight = 70

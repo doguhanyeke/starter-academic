@@ -22,6 +22,6 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 Website for estimating the scrum points for the tasks. Before this application, this scoring is done verbally. However, at this stage, the members of the team are affected by each other. To solve this issue, we want to build an application named Agile Estimator. Developing an application for Scrum Boards. The application will offer the developers an environment that they can score the tasks without seeing each other’s score.
