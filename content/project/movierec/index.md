@@ -8,10 +8,6 @@ date: "2019-04-15T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
 url_code: "https://github.com/twoinfiniteloops/MovieRec"
 url_pdf: ""
 url_slides: ""

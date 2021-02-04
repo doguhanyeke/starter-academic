@@ -8,10 +8,6 @@ date: "2017-06-15T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
 url_code: ""
 url_pdf: "https://senior.ceng.metu.edu.tr/2017/gruprecklessuncivilpeople/about.html"
 url_slides: ""
